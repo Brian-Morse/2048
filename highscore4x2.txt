@@ -1,0 +1,1 @@
+0 is the high score for a 4x2 2048 board, achieved on Mon Nov 07 11:07:17 PST 2022

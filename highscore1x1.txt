@@ -1,0 +1,1 @@
+0 is the high score for a 1x1 2048 board, achieved on Thu Apr 13 21:43:42 PDT 2023

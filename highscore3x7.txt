@@ -1,0 +1,1 @@
+0 is the high score for a 3x7 2048 board, achieved on Thu Apr 13 21:37:15 PDT 2023
