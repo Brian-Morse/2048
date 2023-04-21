@@ -1,1 +1,0 @@
-44 is the high score for a 5x3 2048 board, achieved on Mon Nov 07 11:07:07 PST 2022
