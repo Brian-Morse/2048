@@ -1,1 +1,0 @@
-16 is the high score for a 1x3 2048 board, achieved on Wed Mar 29 15:28:28 PDT 2023
