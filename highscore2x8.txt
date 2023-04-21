@@ -1,1 +1,0 @@
-180 is the high score for a 2x8 2048 board, achieved on Sat Nov 19 11:25:50 PST 2022
